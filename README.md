@@ -12,7 +12,7 @@ Technology enthusiast, in training to contribute to its advancement, development
 * University
     * Escuela Superior Politécnica del Litoral [ESPOL]
     (mayo 2019 - Actualidad)
-    * Status. – ***In progress**
+    * Status. – **In progress**
 
 *COURSES*
 * [ONE Program - Alura Latam (aluracursos.com)](https://app.aluracursos.com/user/r4vc31/fullCertificate/fda4615e9cc318308e663ca7825067cf)
